@@ -52,6 +52,7 @@ p,h5{
     .about-us .details-picture{
         height: 354px;
         width: 600px;
+        margin-top: 50px;
     }
   }
   @media only screen and (max-width: 600px) {
@@ -82,7 +83,7 @@ p,h5{
     }    
     .about-us .details-picture{
         height: 173px;
-        width: 297px;
+        width: 292px;
         display: block;
         margin-left: auto;
         margin-right: auto;
