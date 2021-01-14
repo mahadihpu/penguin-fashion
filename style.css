@@ -1,4 +1,8 @@
-
+.card{
+    border: none !important;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px lightgrey;
+}
 
 #navbar,.head-section{
     background: #FFFBF0;
@@ -86,11 +90,6 @@ p,h5{
     } 
   }
 
- .card{
-     border: none;
-     border-radius: 20px;
-     box-shadow: 5px 5px 5px lightgrey;
- } 
 .card img{
     width: 100px;
     
@@ -106,6 +105,7 @@ p,h5{
 }
 .product-card{
     padding-bottom: 15px;
+    border-radius: 20px;
 }
 .product-card img{
     width: 100%;
